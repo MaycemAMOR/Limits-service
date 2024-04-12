@@ -1,6 +1,6 @@
-package com.mytechmicroservices.limitsservice;
+package com.mytech.microservices.limitsservice;
 
-import com.mytechmicroservices.limitsservice.bean.LimitsConfiguration;
+import com.mytech.microservices.limitsservice.bean.LimitsConfiguration;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
